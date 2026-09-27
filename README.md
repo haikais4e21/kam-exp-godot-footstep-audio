@@ -1,0 +1,1 @@
+To run this project, open it with Godot 4.7. The script handles footsteps audio based on the ground material.
